@@ -1,0 +1,1 @@
+# GoogleMerchantXML_RW
