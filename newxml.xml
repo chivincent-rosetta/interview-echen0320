@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <item>
+    <!-- The following attributes are always required -->
+    <g:id>033A</g:id>
+    <g:title>&#x6709;&#x54C1;&#x5473;</g:title>
+    <g:description>&#x300A;&#x6709;&#x54C1;&#x5473;&#x7684;&#x71DF;&#x990A;&#x53E3;&#x7CE7;&#x300B;-La P&#xC2;TISSERIE de WACA</g:description>
+    <g:link>https://customerexperience.waca.ec/product/detail/468028</g:link>
+    <g:image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/06/060de1b0d31f25357028fcaa4488b0b8.jpg</g:image_link>
+
+
+    <g:condition>new</g:condition>
+    <g:adult>no</g:adult>
+    <g:availability>
+                    out of stock
+            </g:availability>
+
+    <g:price>
+                190 TWD
+            </g:price>
+
+    <g:brand>La P&#xC2;TISSERIE de WACA</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type/>
+
+    </item>
+<item>
+    <!-- The following attributes are always required -->
+    <g:id>chripy</g:id>
+    <g:title>&#x300A;&#x6DF1;&#x9677;&#x5DE7;&#x514B;&#x529B;&#x6F29;&#x6E26;&#x6D3E;&#x300B;</g:title>
+    <g:description>&#x300A;&#x6DF1;&#x9677;&#x5DE7;&#x514B;&#x529B;&#x6F29;&#x6E26;&#x6D3E;&#x300B;-La P&#xC2;TISSERIE de WACA</g:description>
+    <g:link>https://customerexperience.waca.ec/product/detail/269233</g:link>
+    <g:image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/08/08491155cc3977c215c0f393005e38b6.jpg</g:image_link>
+
+
+    <g:condition>new</g:condition>
+    <g:adult>no</g:adult>
+    <g:availability>
+                    in stock
+            </g:availability>
+
+    <g:price>
+                150 TWD
+            </g:price>
+
+    <g:brand>La P&#xC2;TISSERIE de WACA</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>&#x624B;&#x5DE5;&#x86CB;&#x7CD5;</g:product_type>
+
+    </item>
+<item>
+    <!-- The following attributes are always required -->
+    <g:id>card</g:id>
+    <g:title>&#x5C0F;&#x5361;</g:title>
+    <g:description>&#x5C0F;&#x5361;-La P&#xC2;TISSERIE de WACA</g:description>
+    <g:link>https://customerexperience.waca.ec/product/detail/430879</g:link>
+    <g:image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/8e/8e02a5906b4a5ba801d141b035832f5e.jpg</g:image_link>
+
+            <g:additional_image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/e2/e2aaf0e91c7877009c93e46daba9c315.jpg</g:additional_image_link>
+        <g:additional_image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/8e/8e02a5906b4a5ba801d141b035832f5e.jpg</g:additional_image_link>
+        <g:additional_image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/36/36306a9f171ac6ce3bf58639f375e296.jpg</g:additional_image_link>
+        <g:additional_image_link>https://hinetcdn.waca.ec/uploads/shops/6/products/1f/1fd50132ef21d6528da5199c5f463e95.jpg</g:additional_image_link>
+
+    <g:condition>new</g:condition>
+    <g:adult>no</g:adult>
+    <g:availability>
+                    in stock
+            </g:availability>
+
+    <g:price>
+                100 TWD
+            </g:price>
+        <g:sale_price>
+                    90 TWD
+            </g:sale_price>
+
+    <g:brand>La P&#xC2;TISSERIE de WACA</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:product_type>&#x5305;&#x88DD;&#xFF5C;&#x5468;&#x908A; &gt; &#x5305;&#x88DD;&#x670D;&#x52D9;</g:product_type>
+
+    </item>
+  </channel>
+  </rss>
