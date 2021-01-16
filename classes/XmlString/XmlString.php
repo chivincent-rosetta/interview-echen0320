@@ -1,6 +1,5 @@
 <?php
-namespace MyApp\XML;
-
+namespace myapp\XmlString;
 class XmlString {
 
 //Create $xml first, then use fromXML to load the string.
@@ -9,13 +8,10 @@ public static $xmldoc;
 public $xmlobject;
 public static $strxml;
 public static $xmldata;
-$xmlString = new XmlString();
+
   public static function fromXMLFile($source){
     self::$xmldoc = new DomDocument();
     self::$xmldoc->load($source);
-    //$xmlobject = simplexml_load_file($source);
-    //self::$xml = $xmlobject->asXML();
-    //print_r($xml) previously
     self::$xml = self::$xmldoc->savexml();
     //echo $xml;
   }
@@ -28,17 +24,19 @@ $xmlString = new XmlString();
     $newXML = self::$xmldoc->saveXML();
     // echo $newXML;
   }
+
   //Save to file
   public function toXML(){
     self::$xmldoc->save("newxml.xml");
   }
-  //This can probably also be done with xpath
+
   public function gettitle($title){
     $xpath = new DOMXpath(self::$xmldoc);
     $search = $xpath->query("channel/item[text()[contains('$title', g:title)] ]/g:title");
     $DOMsearchnode = $search->item(0);
     echo $DOMsearchnode->nodeValue;
   }
+
   public function settitle($title,$newtitle){
     //Find out how escape characters work
     $xpath = new DOMXpath(self::$xmldoc);
